@@ -1,0 +1,128 @@
+*{ margin: 10px;
+    box-sizing: border-box;
+
+}   
+ .japan{
+    margin-top: 50px;
+    display: inline-block;
+        width: 400px;
+        height: 200px;
+        border: solid 5px black;
+        background: white;
+    }
+    .aylana{
+        text-align: center;
+        width:100px;
+        height: 100px;
+        background-color: red;
+        border-radius: 50%;
+        margin-left: 125px;
+        margin-top: 50px;
+    }
+    .turkey{
+        width: 400px;
+        height: 200px;
+        background: rgb(221, 22, 22);
+        border: solid 2.5px black;
+        display: inline-block;
+    }
+     .img{ 
+        width: 120px;
+         height: 120px;    
+        margin-top: 35px;
+        margin-left: 75px;
+        border-radius: 40%;
+     
+      
+    }
+    .india{
+        width: 500px;
+        height: 300px;
+        border: solid 2px black;
+        display: inline-block;
+    }
+    .orange{
+        width: 496px;
+        height: 100px;
+        background-color: orange;
+        margin:0px;
+    }
+    .white{
+        width: 498px;
+        height: 100px;
+         margin:0px ;
+        border: solid 2px black;
+    }
+    .green{
+        background-color: green;
+        width: 498px;
+        height: 100px;
+        margin:0px;
+    }
+    .india-logo{
+        width: 98px;
+        height: 98px;
+        margin: 0px;
+        border-radius: 50%;
+        margin-left:40%;
+    }
+    .argentina{
+        display: inline-block;
+        width: 500px;  
+        height: 300px;
+        border: solid 2px black;
+    }
+    .argblue{
+        background-color: rgba(52, 151, 250, 0.877);
+        margin: 0px;
+        height: 98px;
+    }
+    .argwhite{
+        margin: 0px;
+        background-color: white;
+        height: 100px;
+        border: solid 1px black;
+    }
+    .argeblue{
+        background-color: rgba(52, 151, 250, 0.877);
+        margin: 0px;
+        height: 98px;
+    }
+    .arglogo{
+        margin: 0px;
+        width: 100px;
+        height: 98px;
+        border-radius: 50%;
+        margin-left:40% ;
+    }
+    .israil{
+        width: 500px;
+        display: inline-block;
+        height: 300px;
+        border: 2px black solid;
+      
+    }
+    .isrblu{
+        width: 496px;
+        margin: 0px;
+        height: 85px;
+        background-color: rgb(15, 60, 239);
+    }
+    .isrwhite{
+        margin: 0px;
+        width:496px;
+        height: 130px;
+        background-color:white;
+    }
+    .isrblue{
+        width: 496px;
+        margin: 0px;
+        height: 85px;
+        background-color: rgb(15, 60, 239);
+    }
+    .isr{
+        width: 130px;
+        height:130px;
+        margin:0px;
+        margin-left: 35%;
+    }
